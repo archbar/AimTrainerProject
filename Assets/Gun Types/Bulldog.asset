@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5246614ce1594a4d8151b3c3622f73a, type: 3}
+  m_Name: Bulldog
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 6321057644848319822, guid: 552089c726c6b6d47ab720777aa000ec, type: 3}
+  fireRate: 0.05
+  recoil: 20
+  recoilX: -1
+  recoilY: 1
+  recoilZ: 0.2
+  aimRecoilX: -0.5
+  aimRecoilY: 0.5
+  aimRecoilZ: 0.1
+  returnSpeed: 2
+  snappiness: 6
+  damage: 160
+  range: 1000
+  ammoSpeed: 980
+  aimSpeed: 20
+  kickback: 0.15
+  automatic: 0
+  canBurst: 1
+  burstgap: 0.1
+  numberOfShotsPerBurst: 3

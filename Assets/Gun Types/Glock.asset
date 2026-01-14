@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c41c8728e08c6ec4ba5bc96051b56756, type: 3}
+  m_Name: Glock
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 7949281210761385022, guid: 7fe54050fe24219478d42716eac3639d, type: 3}
+  fireRate: 0.05
+  recoil: 20
+  recoilX: 0
+  recoilY: 0
+  recoilZ: 0
+  aimRecoilX: 0
+  aimRecoilY: 0
+  aimRecoilZ: 0
+  returnSpeed: 0
+  snappiness: 0
+  damage: 40
+  range: 1000
+  ammoSpeed: 400
+  aimSpeed: 50
+  kickback: 0.15
+  hasSuppressor: 0
