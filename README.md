@@ -18,3 +18,5 @@ Learning Unity workflows, including project structure, prefabs, scripts and UI d
 The main takeaway from this project has been understanding how to structure code for scalability and maintainability in a game context, as well as gaining experience with Unity’s development environment. I primarily began this project for my NEA and I have found it to be a valuable experience, gaining many skills I have used during university, including soft skills such as time management.
 
 I also gained experience in documentation and recorded the entire development process.
+
+This was created in Unity 2022.
